@@ -14,5 +14,7 @@ Transformar y visualizar los datos que permita a los propietarios obtener inform
    - se detectaron venta d enuevas lineas de tuberia
 ![Captura de pantalla 2024-03-25 144224](https://github.com/user-attachments/assets/ce39366b-ef87-4b00-bd71-410c6268a35b)
 
+### codigo utilizado en el analisis
+"""SELECT * FROM PedidoRenglon WHERE IdEstilo=140 and NumPedido=1080381"""
 
 
